@@ -1,0 +1,42 @@
+name: Retirement Resilience policy proposal
+description: Submit a bounded, evidence-backed retirement-security policy question or model.
+title: "[Proposal]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Use this form for a focused, reviewable proposal. Do not include personal benefit records or individualized financial-planning requests."
+  - type: input
+    id: jurisdiction
+    attributes:
+      label: Jurisdiction
+      placeholder: "Example: federal, state, municipal, or employer plan"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and affected groups
+      placeholder: "Describe the benefit, access, or transition problem and who is affected."
+    validations:
+      required: true
+  - type: textarea
+    id: mechanism
+    attributes:
+      label: Proposed mechanism and safeguards
+      placeholder: "What would change? Include transition protections, fiscal assumptions, and review dates."
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Sources and assumptions
+      placeholder: "Link primary sources, data, or research. Label assumptions."
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Risks, tradeoffs, and conflicts
+      placeholder: "Who could bear disproportionate risk? Disclose any material conflict."
+    validations:
+      required: true
