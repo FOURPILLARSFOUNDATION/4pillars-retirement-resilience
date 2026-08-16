@@ -16,3 +16,9 @@ This repository studies practical paths to more durable retirement security. Eve
 ## Contribute
 
 Use the parent [4PILLARS Policy Commons](https://github.com/FOURPILLARSFOUNDATION/4pillars-policy-dao) governance rules, evidence standards, and policy-lifecycle model. This is a research repository, not financial, legal, or investment advice.
+
+## Start here
+
+- Read the [Retirement Resilience research agenda](docs/RESEARCH-AGENDA.md).
+- Use the [contribution guide](CONTRIBUTING.md) to open a focused proposal or evidence issue.
+- See the main Commons [repository directory](https://github.com/FOURPILLARSFOUNDATION/4pillars-policy-dao/blob/main/ecosystem/REPOSITORIES.md) for related work and cross-repo links.
